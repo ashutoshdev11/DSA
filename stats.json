@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
-    "2026-10-13": 1
+    "2026-10-13": 2
   },
   "todayProblems": [
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "Two Sum"
   ]
 }
