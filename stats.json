@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -18,10 +18,11 @@
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Remove_Element": true
+    "LeetCode_Remove_Element": true,
+    "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true
   },
   "activityHistory": {
-    "2026-10-13": 8
+    "2026-10-13": 9
   },
   "todayProblems": [
     "Add Two Numbers",
@@ -31,6 +32,7 @@
     "Valid Parentheses",
     "Merge Two Sorted Lists",
     "Remove Duplicates from Sorted Array",
-    "Remove Element"
+    "Remove Element",
+    "Find the Index of the First Occurrence in a String"
   ]
 }
