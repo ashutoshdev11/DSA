@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -14,15 +14,17 @@
     "LeetCode_Add_Two_Numbers": true,
     "LeetCode_Two_Sum": true,
     "LeetCode_Roman_to_Integer": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_Valid_Parentheses": true
   },
   "activityHistory": {
-    "2026-10-13": 4
+    "2026-10-13": 5
   },
   "todayProblems": [
     "Add Two Numbers",
     "Two Sum",
     "Roman to Integer",
-    "Longest Common Prefix"
+    "Longest Common Prefix",
+    "Valid Parentheses"
   ]
 }
